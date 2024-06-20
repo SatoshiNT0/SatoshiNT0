@@ -36,6 +36,33 @@ Creator ₿itcoin🟠
 -🛰 My proposed update of the protocol and source code of Bitcoin to Quantum Cryptography:
 It is possible to upgrade the entire bitcoin protocol to quantum cryptography and I will tell you how.
 
+Quantum Signature Algorithms: Researching and developing signature algorithms resistant to quantum attacks could be a solution.  These algorithms would protect private keys even in a quantum environment.
+
+ Protocol Updates: The Bitcoin community could consider specific updates to address the quantum threat.  This could include changes to the way keys are generated and handled.
+ Quantum resistant signature algorithms ordered by signature size:
+
+* [https://sphincs.org SPHINCS+] - 17KB
+* [https://eprint.iacr.org/2014/457.pdf pqNTRUsign] - 702 bytes
+* [https://falcon-sign.info FALCON] - 666 bytes
+* [https://sqisign.org SQIsign] - 177 bytes
+* [https://eprint.iacr.org/2024/760.pdf SQIsign2D-West] - 148 bytes
+* [https://link.springer.com/chapter/10.1007/978-3-031-58716-0_1 FastSQIsignHD] - 107 bytes
+In comparison:
+
+* ECDSA - 70-72 bytes
+* Schnorr - 64 bytes
+
+* Ideally FastSQIsignHD proves to be flexible enough to support [https://www.pierrickdartois.fr/homepage/wp-content/uploads/2022/04/Report_OSIDH_DARTOIS.pdf Isogeny Diffie-Hellman] and the key tweaking necessary to support TapScript.
+
+* I suggest you consider this  https://github.com/bitcoin/bips/commit/671165ddddfa764a6000086494d06372c2b837d4#diff-917a32a71b69bf62d7c85dfb13d520a0340a30a2889b015b82d36411ed45e754R61. The name P2QRH means Pay to Quantum Resistant Hash. This is similar to how P2PKH, as defined in [https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki#specification BIP-16].
+
+P2QR addresses will be needed to maintain TapScript compatibility, and will encode the SQIsign public key. P2QRH addresses will use SHA-256 / MD160, similar to BIP-16, to reduce the size of new outputs.
+
+For descriptors, `qrh()` should be used.
+
+ Continuous Research: Keeping up with advances in quantum computing and collaborating with cryptography experts is essential. Qiski IBM is very interesting!
+
+
 In theory, it is possible to update the Bitcoin protocol to use quantum-resistant cryptography. In fact, if quantum computing becomes an imminent threat to Bitcoin, the protocol could be updated to use post-quantum algorithms.
 
 However, this would be a complex process that would require widespread consensus within the Bitcoin community. I propose that any changes to the Bitcoin protocol need to be accepted by the majority of participants in the network, since all users need to use software that complies with the same rules.
