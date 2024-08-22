@@ -228,6 +228,7 @@ lqA6fg==
 
 -----END PGP MESSAGE-----
                                             
+![image](https://github.com/user-attachments/assets/87c8598b-2001-46a9-9d01-091614368278)
 
 - 📄 My Message to the ₿itcoiner and Developers Community:
 
