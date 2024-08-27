@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ... our world!
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
 - 📧 email: satoshinakam0t0@duck.com
-- ☝ PGP fingerprint: 4A14 51A1 7EBF 1AFD 3A22 F56F C427 07B0 00C9 6041
+- ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
 - 🌐 https://archive.org/details/team.-satoshi.-nakamoto-all-time-2/Captura 
 
 - All the truth about how was created ₿itcoin🟠 https://github.com/SatoshiNT0/SatoshiNT0/releases/tag/Satoshi
