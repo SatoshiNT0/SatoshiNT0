@@ -13,9 +13,9 @@
 - All the truth about how was created ₿itcoin🟠 https://github.com/SatoshiNT0/SatoshiNT0/releases/tag/Satoshi
 - ☀ [https://github.com/SatoshiNT0/Original-Bitcoin-Source-Code/blob/master/All%20the%20truth.txt](https://github.com/SatoshiNT0/original-bitcoin/releases/tag/satoshi)
 - ![image](https://github.com/user-attachments/assets/3bdd0e03-21a2-413d-a7be-5050189eee6e)
-- ![BicoinFirstPDF](https://github.com/user-attachments/assets/c0daf2f7-fd65-447d-9c38-5ed1aca11c4e)
-- ![BitcoinQR](https://github.com/user-attachments/assets/92720545-6afd-427a-a079-41b7765845bd)
-
+- 
+- ![qrcode_mail-attachment googleusercontent com](https://github.com/user-attachments/assets/f05ace3b-4355-4aeb-9a7e-da120e22f3a3)
+- ![qrcode_mail-attachment googleusercontent com (1)](https://github.com/user-attachments/assets/94fabb89-4cef-4b35-b4aa-e2df5e68109b)
 - ![image](https://github.com/user-attachments/assets/f5e03828-f8a1-4c77-948d-59edf558df37)
 
 
