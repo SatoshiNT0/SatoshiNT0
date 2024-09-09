@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Quantum Cryptography.
 - 💞️ I’m looking to collaborate on ... our world!
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
-- 📧 email: satoshinakam0t0@duck.com
+- 📧 email: _satoshi@gmx.com
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
 - https://bitcointalk.org/index.php?action=profile;u=3652608
 - 🌐 https://archive.org/details/team.-satoshi.-nakamoto-all-time-2/Captura
