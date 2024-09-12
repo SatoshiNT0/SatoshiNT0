@@ -264,6 +264,10 @@ Creator ₿itcoin🟠
 -🛰 My proposed update of the protocol and source code of Bitcoin to Quantum Cryptography:
 It is possible to upgrade the entire bitcoin protocol to quantum cryptography and I will tell you how.
 
+I propose the triple hash: Cryptography Post Quantum.#Bitcoin #hash #PostQuantum #privacy #Satoshi
+— Satoshi Nakamoto (@SatoshiNT0) September 11, 2024
+ 
+
 Quantum Signature Algorithms: Researching and developing signature algorithms resistant to quantum attacks could be a solution.  These algorithms would protect private keys even in a quantum environment.
 
  Protocol Updates: The Bitcoin community could consider specific updates to address the quantum threat.  This could include changes to the way keys are generated and handled.
