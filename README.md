@@ -10,8 +10,7 @@
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
 - https://bitcointalk.org/index.php?action=profile;u=3
 - ![image](https://github.com/user-attachments/assets/0197c84f-fd44-4591-8616-c89fb70238f7)
-- ![image](https://github.com/user-attachments/assets/3dae7f5d-7fbb-48b7-b16d-d8a7e53d4e4b)
-
+- ![image](https://github.com/user-attachments/assets/00808108-fced-4e8e-9a5a-83802658be34)
 - email support gmx
 - ![screenshot 2024-08-12 134808](https://github.com/user-attachments/assets/214ec568-ed92-4a2c-976a-3d5e65cc0b6e)
 
