@@ -13,7 +13,7 @@
 - https://bitcointalk.org/index.php?topic=155054.msg64511484#msg64511484
 
 - All the truth about how was created ₿itcoin🟠 https://github.com/SatoshiNT0/SatoshiNT0/releases/tag/Satoshi
-- My original Whitepaper https://c.gmx.com/@1353820301439272152/9ZIbFvuEQ965A2LtFhb9Rw
+- My original Whitepaper.  I added my code QR. https://c.gmx.com/@1353820301439272152/9ZIbFvuEQ965A2LtFhb9Rw
 - ☀ [https://github.com/SatoshiNT0/Original-Bitcoin-Source-Code/blob/master/All%20the%20truth.txt](https://github.com/SatoshiNT0/original-bitcoin/releases/tag/satoshi)
 - ![image](https://github.com/user-attachments/assets/3bdd0e03-21a2-413d-a7be-5050189eee6e)
 - 
