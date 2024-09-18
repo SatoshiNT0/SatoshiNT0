@@ -8,6 +8,10 @@
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
 - 📧 email: _satoshi@gmx.com
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
+- ![image](https://github.com/user-attachments/assets/ec75b15e-ce96-479d-b9ec-401e4df7476e)
+
+- ![image](https://github.com/user-attachments/assets/59fccf57-43f4-414e-b2da-595281c7ad33)
+
 - https://bitcointalk.org/index.php?action=profile;u=3
 - ![image](https://github.com/user-attachments/assets/0197c84f-fd44-4591-8616-c89fb70238f7)
 - ![image](https://github.com/user-attachments/assets/00808108-fced-4e8e-9a5a-83802658be34)
