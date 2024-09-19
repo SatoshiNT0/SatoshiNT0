@@ -8,6 +8,12 @@
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
 - 📧 email: _satoshi@gmx.com
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
+- ₿itcoin 🟠👈: My design 2007, my whitepaper 2008, my code run 2009.
+  I love it when you say, "We are all Satoshi." That's how you acknowledge me, and I appreciate it. 
+  My friends at BTC Core should also acknowledge me by putting "Copyright © 2009 license MIT Satoshi Nakamoto" Or "₿itcoin © 2009 Satoshi Nakamoto,
+  Licensed under the MIT License" in the header of the current license.
+  
+  
 - https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 - ![image](https://github.com/user-attachments/assets/ec75b15e-ce96-479d-b9ec-401e4df7476e)
 
