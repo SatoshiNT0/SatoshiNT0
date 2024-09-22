@@ -8,6 +8,8 @@
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
 - 📧 email: _satoshi@gmx.com
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
+- ![image](https://github.com/user-attachments/assets/abcee5f3-c230-453c-8e7f-72e341d8af9b)
+
 - https://x.com/SatoshiNT0/status/1836968373378220118
 - ![idcash](https://github.com/user-attachments/assets/c24b4d24-91ce-4970-8dd7-79e61eee3394)
 - https://marc.info/?l=cypherpunks&m=95280154629912&w=2
