@@ -20,6 +20,13 @@
   My friends at BTC Core should also acknowledge me by putting "Copyright © 2009 license MIT Satoshi Nakamoto" Or "₿itcoin © 2009 Satoshi Nakamoto,
   Licensed under the MIT License" in the header of the current license.
   
+- I put it on this mailing list because it was more technical and specialized in cryptography in 2008.
+- https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
+- ![image](https://github.com/user-attachments/assets/51ecbf51-43bf-4359-8199-6e5431c224d3)
+
+
+  
+  
   
 - https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 - ![image](https://github.com/user-attachments/assets/ec75b15e-ce96-479d-b9ec-401e4df7476e)
