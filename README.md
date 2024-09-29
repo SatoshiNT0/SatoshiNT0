@@ -16,13 +16,13 @@
   Thanks of course to Wei Dai and Adam Back.
   ![BitcoinBank](https://github.com/user-attachments/assets/6132765c-2f08-462d-8fc4-c1a22d10745a)
 
-  
+- https://marc.info/?l=cypherpunks&m=95279521221935&w=2
+- ![image](https://github.com/user-attachments/assets/3cdeb6dd-56c2-4608-8e5b-f7d7361982e4)
 
-https://marc.info/?l=cypherpunks&m=95279521221935&w=2
 - https://marc.info/?l=cypherpunks&m=95280154629912&w=2
 - ![image](https://github.com/user-attachments/assets/34b0d28e-cc9e-498c-8dc2-6dc538aa3a9e)
 
-- ₿itcoin 🟠👈: My design 2007, my whitepaper 2008, my code run 2009.
+- ₿itcoin 🟠👈: Since 1998 I have been investigating it, My design 2007, my whitepaper 2008, my code run 2009.
   I love it when you say, "We are all Satoshi." That's how you acknowledge me, and I appreciate it. 
   My friends at BTC Core should also acknowledge me by putting "Copyright © 2009 license MIT Satoshi Nakamoto" Or "₿itcoin © 2009 Satoshi Nakamoto,
   Licensed under the MIT License" in the header of the current license.
