@@ -12,6 +12,13 @@
 
 - https://x.com/SatoshiNT0/status/1836968373378220118
 - ![idcash](https://github.com/user-attachments/assets/c24b4d24-91ce-4970-8dd7-79e61eee3394)
+- I wrote this argument, back in 11-12-1998 on the Cypherpunk list. This was always my vision of Electronic Money as an inflation-proof store of value: Bitcoin.
+  Thanks of course to Wei Dai and Adam Back.
+  ![BitcoinBank](https://github.com/user-attachments/assets/6132765c-2f08-462d-8fc4-c1a22d10745a)
+
+  
+
+https://marc.info/?l=cypherpunks&m=95279521221935&w=2
 - https://marc.info/?l=cypherpunks&m=95280154629912&w=2
 - ![image](https://github.com/user-attachments/assets/34b0d28e-cc9e-498c-8dc2-6dc538aa3a9e)
 
