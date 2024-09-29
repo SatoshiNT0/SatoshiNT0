@@ -307,6 +307,11 @@ It is possible to upgrade the entire bitcoin protocol to quantum cryptography an
 
 I propose the triple hash: Cryptography Post Quantum.#Bitcoin #hash #PostQuantum #privacy #Satoshi
 — Satoshi Nakamoto (@SatoshiNT0) September 11, 2024
+
+- I am not proposing a Hard Fork, but rather that  is necessary to design a way to protect Bitcoin and  users. Note that the Quantum Hash is parallel to the current branch in execution is not affected but is an option that protects the Bitcoin network.
+
+- A parallel option is built on the same Bitcoin network, where there is a Quantum format network so that users can safely and privately migrate their bitcoins to save them from a Quantum attack.
+![Screenshot  Hash Quantum (HashQ)](https://github.com/user-attachments/assets/9e9b2b08-1c0c-48c3-8752-9c8716174b5d)
  
 
 Quantum Signature Algorithms: Researching and developing signature algorithms resistant to quantum attacks could be a solution.  These algorithms would protect private keys even in a quantum environment.
