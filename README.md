@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SatoshiNT0 (Satoshi Nakamoto)
+- 👤👋 Hi, I’m @SatoshiNT0 (Satoshi Nakamoto)
 - 👀 I’m interested in ...₿itcoin🟠
 - 💎 https://github.com/bitcoin/bitcoin/compare/master...SatoshiNT0:bitcoin:master
 - 💛 https://github.com/bitcoin/bitcoin/commits?author=SatoshiNT0
