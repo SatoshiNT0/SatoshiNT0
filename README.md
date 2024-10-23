@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning ... Quantum Cryptography.
 - 💞️ I’m looking to collaborate on ... our world!
 - 📫 How to reach me ... https://gravatar.com/satoshinakam0t0
+- 🍻 Financial Cryptography and Data Security  https://crypto.unibe.ch/fc25/paper.php/70
+- 🍺 Call for Papers https://fc25.ifca.ai/cfp.html
 - 📧 email: _satoshi@gmx.com
 - ☝ PGP fingerprint: Key PGP ---> F42A D5FF 0661 6569 96AD A1BB E2FE 2010 EE1D 1815
 - ![image](https://github.com/user-attachments/assets/abcee5f3-c230-453c-8e7f-72e341d8af9b)
