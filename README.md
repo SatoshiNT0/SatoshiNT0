@@ -1,5 +1,7 @@
 - 🌞🫡 My Identity as Satoshi Nakamoto https://www.metzdowd.com/pipermail/cryptography/2024-October/038528.html
 - 🛠 About fix my key PGP https://forum.gnupg.org/u/satoshi/summary
+- ![image](https://github.com/user-attachments/assets/7e78e812-1c4c-4d07-801c-e682db22a65e)
+
 - 👤👋 Hi, I’m @SatoshiNT0 (Satoshi Nakamoto)
 - 👀 I’m interested in ...₿itcoin🟠
 - 💎 https://github.com/bitcoin/bitcoin/compare/master...SatoshiNT0:bitcoin:master
