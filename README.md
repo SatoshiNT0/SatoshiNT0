@@ -2,8 +2,7 @@
 - 🛠 About fix my key PGP https://forum.gnupg.org/u/satoshi/summary
 - ![image](https://github.com/user-attachments/assets/7e78e812-1c4c-4d07-801c-e682db22a65e)
 - ![image](https://github.com/user-attachments/assets/25ba35b8-2fb5-460e-a478-e95ad7b57967)
-
-
+- ![image](https://github.com/user-attachments/assets/96c330a5-eea0-42d2-951e-bdebcea4cae4)
 - 👤👋 Hi, I’m @SatoshiNT0 (Satoshi Nakamoto)
 - 👀 I’m interested in ...₿itcoin🟠
 - 💎 https://github.com/bitcoin/bitcoin/compare/master...SatoshiNT0:bitcoin:master
