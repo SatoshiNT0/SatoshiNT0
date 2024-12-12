@@ -1,4 +1,5 @@
 _ 🌎 My Android Satoshi 👤 APK http://www.appcreator24.com/app3403722-hec9d1
+- 🟠 My propose update HashQ  https://lists.cpunks.org/archives/list/cypherpunks@lists.cpunks.org/thread/F52IYZK3IXMBB5DEKMICJYBQA7KLHBRI/ 
 - 🌞🫡 My Identity as Satoshi Nakamoto https://www.metzdowd.com/pipermail/cryptography/2024-October/038528.html
 - 🛠 About fix my key PGP https://forum.gnupg.org/u/satoshi/summary
 -  🛠 About fix my key PGP https://www.metzdowd.com/pipermail/cryptography/2024-November/038560.html
